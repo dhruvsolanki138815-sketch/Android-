@@ -95,7 +95,85 @@ public class MainActivity extends AppCompatActivity {
         else if(id == R.id.btn28)
             startActivity(new Intent(this, Activity28.class));
 
-        // continue till 50
+        else if(id == R.id.btn29)
+            startActivity(new Intent(this, Activity29.class));
+
+        else if(id == R.id.btn30)
+            startActivity(new Intent(this, Activity30.class));
+
+        else if(id == R.id.btn31)
+            startActivity(new Intent(this, Activity31.class));
+
+        else if(id == R.id.btn32)
+            startActivity(new Intent(this, Activity32.class));
+
+        else if(id == R.id.btn33)
+            startActivity(new Intent(this, Activity33.class));
+
+        else if(id == R.id.btn34)
+            startActivity(new Intent(this, Activity34.class));
+
+        else if(id == R.id.btn35)
+            startActivity(new Intent(this, Activity35.class));
+
+        else if(id == R.id.btn36)
+            startActivity(new Intent(this, Activity36.class));
+
+        else if(id == R.id.btn37)
+            startActivity(new Intent(this, Activity37.class));
+
+        else if(id == R.id.btn38)
+            startActivity(new Intent(this, Activity38.class));
+
+        else if(id == R.id.btn39)
+            startActivity(new Intent(this, Activity39.class));
+
+        else if(id == R.id.btn40)
+            startActivity(new Intent(this, Activity40.class));
+
+        else if(id == R.id.btn41)
+            startActivity(new Intent(this, Activity41.class));
+
+        else if(id == R.id.btn42)
+            startActivity(new Intent(this, Activity42.class));
+
+        else if(id == R.id.btn43)
+            startActivity(new Intent(this, Activity43.class));
+
+        else if(id == R.id.btn44)
+            startActivity(new Intent(this, Activity44.class));
+
+        else if(id == R.id.btn45)
+            startActivity(new Intent(this, Activity45.class));
+
+        else if(id == R.id.btn46)
+            startActivity(new Intent(this, Activity46.class));
+
+        else if(id == R.id.btn47)
+            startActivity(new Intent(this, Activity47.class));
+
+        else if(id == R.id.btn48)
+            startActivity(new Intent(this, Activity48.class));
+
+        else if(id == R.id.btn49)
+            startActivity(new Intent(this, Activity49.class));
+
+        else if(id == R.id.btn50)
+            startActivity(new Intent(this, Activity50.class));
+
+        else if(id == R.id.btn51)
+            startActivity(new Intent(this, Activity51.class));
+
+        else if(id == R.id.btn52)
+            startActivity(new Intent(this, Activity52.class));
+
+        else if(id == R.id.btn53)
+            startActivity(new Intent(this, Activity53.class));
+
+        else if(id == R.id.btn54)
+            startActivity(new Intent(this, Activity54.class));
+
+        // end of 54 activities
     }
 
     @Override
